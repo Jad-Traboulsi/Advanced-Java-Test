@@ -1,0 +1,53 @@
+/run/current-system/sw/lib/openjdk/bin/java -Dmaven.multiModuleProjectDirectory=/home/jad.traboulsi/submission/jad-traboulsi-adv-java -Dmaven.home=/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3 -Dclassworlds.conf=/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/bin/m2.conf -Dmaven.ext.class.path=/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven-event-listener.jar -javaagent:/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/lib/idea_rt.jar=39233:/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/bin -Dfile.encoding=UTF-8 -classpath /nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/boot/plexus-classworlds.license org.codehaus.classworlds.Launcher -Didea.version=2021.3 install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< org.example:jad-traboulsi-adv-java >-----------------
+[INFO] Building jad-traboulsi-adv-java 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ jad-traboulsi-adv-java ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ jad-traboulsi-adv-java ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 3 source files to /home/jad.traboulsi/submission/jad-traboulsi-adv-java/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ jad-traboulsi-adv-java ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/jad.traboulsi/submission/jad-traboulsi-adv-java/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ jad-traboulsi-adv-java ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /home/jad.traboulsi/submission/jad-traboulsi-adv-java/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ jad-traboulsi-adv-java ---
+[INFO] Surefire report directory: /home/jad.traboulsi/submission/jad-traboulsi-adv-java/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestMVN2
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ jad-traboulsi-adv-java ---
+[INFO] Building jar: /home/jad.traboulsi/submission/jad-traboulsi-adv-java/target/jad-traboulsi-adv-java-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ jad-traboulsi-adv-java ---
+[INFO] Installing /home/jad.traboulsi/submission/jad-traboulsi-adv-java/target/jad-traboulsi-adv-java-1.0-SNAPSHOT.jar to /home/jad.traboulsi/.m2/repository/org/example/jad-traboulsi-adv-java/1.0-SNAPSHOT/jad-traboulsi-adv-java-1.0-SNAPSHOT.jar
+[INFO] Installing /home/jad.traboulsi/submission/jad-traboulsi-adv-java/pom.xml to /home/jad.traboulsi/.m2/repository/org/example/jad-traboulsi-adv-java/1.0-SNAPSHOT/jad-traboulsi-adv-java-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.889 s
+[INFO] Finished at: 2022-01-17T15:53:09+01:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0

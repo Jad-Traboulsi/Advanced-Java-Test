@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="0" failures="0" name="TestMVN2" time="0" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2021.3"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.12+0-adhoc..source"/>
+    <property name="sun.boot.library.path" value="/nix/store/sfz4bfxsva2ay0rmrf8h1rrfqkad1f17-openjdk-11.0.12+7/lib/openjdk/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/jad.traboulsi/submission/jad-traboulsi-adv-java"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/jad.traboulsi/submission/jad-traboulsi-adv-java"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.12+0-adhoc..source"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="maven.ext.class.path" value="/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/nix/store/m756011mkf1i0ki78i8y6ac3gf8qphvi-gcc-10.3.0-lib/lib:/nix/store/pmkf9a7vwh6jr8sf5wq2c9pgj0319cdc-libsecret-0.20.4/lib:/nix/store/gaiqcil30bdh8kh5nn73yvjrmx25yzhl-e2fsprogs-1.46.4/lib:/nix/store/7qfzm93pav0jvy48zjak470khvrvi4af-libnotify-0.7.9/lib:/nix/store/yzhsc36b7mdp2gd9xa35hwfw7aaj366c-zlib-1.2.11/lib"/>
+    <property name="maven.conf" value="/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="5.10.88"/>
+    <property name="user.home" value="/home/jad.traboulsi"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="jad.traboulsi"/>
+    <property name="java.class.path" value="/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3/boot/plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.3 install"/>
+    <property name="java.home" value="/nix/store/sfz4bfxsva2ay0rmrf8h1rrfqkad1f17-openjdk-11.0.12+7/lib/openjdk"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.12"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/nix/store/gqgglwz28qgcil6d6r444fhi3qr3c07h-idea-ultimate-2021.3/idea-ultimate-2021.3/plugins/maven/lib/maven3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+</testsuite>
